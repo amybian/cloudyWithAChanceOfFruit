@@ -1,2 +1,3 @@
-* linguist-language=SWIFT,JAVASCRIPT
+*.js linguist-language=JAVASCRIPT
+*.html linguist-language=HTML
 
