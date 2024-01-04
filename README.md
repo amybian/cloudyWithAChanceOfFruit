@@ -3,13 +3,10 @@ This is a Collection Style Game Project where I extended from a course project. 
 basket to collect the falling different falling fruits. The game will score your total points. If you miss the fruits 
 many times, you can lose. 
 # Game Overview
-## 1. Catching falling fruits
+Catching falling fruits
 ![](Play.gif)
-## 2. Watering plants and save the village
-![](saveVilliage.gif) 
 
 #### [----> Click me to play the game1!](https://replit.com/@AmyBian/Cloudy-with-a-Chance-of-Fruit)
-#### [----> Click me to play the game2!](https://replit.com/@AmyBian/Save-the-Village)
 
 ### Tech stack
 - Javascript 
